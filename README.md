@@ -20,9 +20,9 @@ The server was renamed to follow a standard enterprise naming convention.
 - Opened **Server Manager**
 - Rename the computer: **SG-DC-01**
 
-<p align="center">
-<img src="https://imgur.com/r7rhEOq.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/r7rhEOq.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -30,27 +30,27 @@ The server was renamed to follow a standard enterprise naming convention.
 
 - Selected **Add Roles and Features**
 
-<p align="center">
-<img src="https://imgur.com/vfsqupy.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/vfsqupy.png" height="80%" width="80%"/>
+
 
 ---
 
 ### Step 3: Select Active Directory Domain Services
 - Selected **Active Directory Domain Services (AD DS)**
 
-<p align="center">
-<img src="https://imgur.com/FgVkukP.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/FgVkukP.png" height="80%" width="80%"/>
+
 
 ---
 
 ### Step 4: Add Required Features
 - Clicked **Add Features** 
 
-<p align="center">
-<img src="https://imgur.com/Qu8tUM0.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/Qu8tUM0.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -59,9 +59,9 @@ The server was renamed to follow a standard enterprise naming convention.
 - Clicked **Install**
 - Waited for installation to complete
 
-<p align="center">
-<img src="https://imgur.com/hTPpm0g.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/hTPpm0g.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -69,27 +69,27 @@ The server was renamed to follow a standard enterprise naming convention.
 - Selected **Add a new forest**
 - Entered root domain name: **minsithu.com**
 
-<p align="center">
-<img src="https://imgur.com/nyfbEAo.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/nyfbEAo.png" height="80%" width="80%"/>
+
 
 ---
 
 ### Step 7: Set Directory Services Restore Mode (DSRM) Password
 - Configured the DSRM password for recovery purposes
 
-<p align="center">
-<img src="https://imgur.com/rdewMyE.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/rdewMyE.png" height="80%" width="80%"/>
+
 
 ---
 
 ### Step 8: Configure NETBIOS Domain Name
 - NETBIOS domain name: **MINSITHU**
 
-<p align="center">
-<img src="https://imgur.com/4LmjBNF.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/4LmjBNF.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -98,9 +98,9 @@ The server was renamed to follow a standard enterprise naming convention.
 - Proceeded with AD DS installation
 - Server rebooted automatically after installation
 
-<p align="center">
-<img src="https://imgur.com/9voDjxL.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/9voDjxL.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -108,9 +108,9 @@ The server was renamed to follow a standard enterprise naming convention.
 
 - Confirmed the domain name: **minsithu.com**
 
-<p align="center">
-<img src="https://imgur.com/v82pSFj.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/v82pSFj.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -127,9 +127,9 @@ This section demonstrates how a new domain user and a domain-joined computer wer
 - Right-clicked on **Users**  
 - Selected **New → User**
 
-<p align="center">
-<img src="https://imgur.com/b55yXu2.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/b55yXu2.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -140,9 +140,9 @@ User details:
 - **Full Name:** Kaung Myat  
 - **User logon name:** Kaung 
 
-<p align="center">
-<img src="https://imgur.com/9CRAYoG.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/9CRAYoG.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -150,45 +150,45 @@ User details:
 
 - User account successfully created
 
-<p align="center">
-<img src="https://imgur.com/MHkLMs9.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/MHkLMs9.png" height="80%" width="80%"/>
+
 
 ---
 
 ### Step 4: Verify User in Active Directory
 - Confirmed the new user **Kaung Myat** appears in the Users container
 
-<p align="center">
-<img src="https://imgur.com/Y2QOvbb.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/Y2QOvbb.png" height="80%" width="80%"/>
+
 
 ---
 
 ### Step 5: Join a Computer to the Domain
 - Joined a Windows client computer to the **minsithu.com** domain
 
-<p align="center">
-<img src="https://imgur.com/q1rZ1bX.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/q1rZ1bX.png" height="80%" width="80%"/>
+
 
 ---
 
 ### Step 6: Enter Domain Credentials
 - Entered the domain administrator username and password to authorize domain join
 
-<p align="center">
-<img src="https://imgur.com/KuCWLWA.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/KuCWLWA.png" height="80%" width="80%"/>
+
 
 ---
 
 ### Step 7: Confirm Successful Domain Join
 - Received confirmation message indicating the computer was successfully joined to the domain
 
-<p align="center">
-<img src="https://imgur.com/C62qorS.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/C62qorS.png" height="80%" width="80%"/>
+
 
 ---
 
@@ -199,9 +199,9 @@ User details:
 Computer details:
 - **Computer Name:** Desktop-1  
 
-<p align="center">
-<img src="https://imgur.com/oZ0K6zE.png" height="50%" width="50%"/>
-</p>
+
+<img src="https://imgur.com/oZ0K6zE.png" height="80%" width="80%"/>
+
 
 ---
 
