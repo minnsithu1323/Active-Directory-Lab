@@ -21,7 +21,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Rename the computer: **SG-DC-01**
 
 
-<img src="https://imgur.com/r7rhEOq.png" height="80%" width="80%"/>
+<img src="https://imgur.com/r7rhEOq.png" height="70%" width="70%"/>
 
 
 ---
@@ -31,7 +31,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Selected **Add Roles and Features**
 
 
-<img src="https://imgur.com/vfsqupy.png" height="80%" width="80%"/>
+<img src="https://imgur.com/vfsqupy.png" height="70%" width="70%"/>
 
 
 ---
@@ -40,7 +40,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Selected **Active Directory Domain Services (AD DS)**
 
 
-<img src="https://imgur.com/FgVkukP.png" height="80%" width="80%"/>
+<img src="https://imgur.com/FgVkukP.png" height="70%" width="70%"/>
 
 
 ---
@@ -49,7 +49,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Clicked **Add Features** 
 
 
-<img src="https://imgur.com/Qu8tUM0.png" height="80%" width="80%"/>
+<img src="https://imgur.com/Qu8tUM0.png" height="70%" width="70%"/>
 
 
 ---
@@ -60,7 +60,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Waited for installation to complete
 
 
-<img src="https://imgur.com/hTPpm0g.png" height="80%" width="80%"/>
+<img src="https://imgur.com/hTPpm0g.png" height="70%" width="70%"/>
 
 
 ---
@@ -70,7 +70,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Entered root domain name: **minsithu.com**
 
 
-<img src="https://imgur.com/nyfbEAo.png" height="80%" width="80%"/>
+<img src="https://imgur.com/nyfbEAo.png" height="70%" width="70%"/>
 
 
 ---
@@ -79,7 +79,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Configured the DSRM password for recovery purposes
 
 
-<img src="https://imgur.com/rdewMyE.png" height="80%" width="80%"/>
+<img src="https://imgur.com/rdewMyE.png" height="70%" width="70%"/>
 
 
 ---
@@ -88,7 +88,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - NETBIOS domain name: **MINSITHU**
 
 
-<img src="https://imgur.com/4LmjBNF.png" height="80%" width="80%"/>
+<img src="https://imgur.com/4LmjBNF.png" height="70%" width="70%"/>
 
 
 ---
@@ -99,7 +99,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Server rebooted automatically after installation
 
 
-<img src="https://imgur.com/9voDjxL.png" height="80%" width="80%"/>
+<img src="https://imgur.com/9voDjxL.png" height="70%" width="70%"/>
 
 
 ---
@@ -109,7 +109,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Confirmed the domain name: **minsithu.com**
 
 
-<img src="https://imgur.com/v82pSFj.png" height="80%" width="80%"/>
+<img src="https://imgur.com/v82pSFj.png" height="70%" width="70%"/>
 
 
 ---
@@ -128,7 +128,7 @@ This section demonstrates how a new domain user and a domain-joined computer wer
 - Selected **New → User**
 
 
-<img src="https://imgur.com/b55yXu2.png" height="80%" width="80%"/>
+<img src="https://imgur.com/b55yXu2.png" height="70%" width="70%"/>
 
 
 ---
@@ -141,7 +141,7 @@ User details:
 - **User logon name:** Kaung 
 
 
-<img src="https://imgur.com/9CRAYoG.png" height="80%" width="80%"/>
+<img src="https://imgur.com/9CRAYoG.png" height="70%" width="70%"/>
 
 
 ---
@@ -151,7 +151,7 @@ User details:
 - User account successfully created
 
 
-<img src="https://imgur.com/MHkLMs9.png" height="80%" width="80%"/>
+<img src="https://imgur.com/MHkLMs9.png" height="70%" width="70%"/>
 
 
 ---
@@ -160,7 +160,7 @@ User details:
 - Confirmed the new user **Kaung Myat** appears in the Users container
 
 
-<img src="https://imgur.com/Y2QOvbb.png" height="80%" width="80%"/>
+<img src="https://imgur.com/Y2QOvbb.png" height="70%" width="70%"/>
 
 
 ---
@@ -169,7 +169,7 @@ User details:
 - Joined a Windows client computer to the **minsithu.com** domain
 
 
-<img src="https://imgur.com/q1rZ1bX.png" height="80%" width="80%"/>
+<img src="https://imgur.com/q1rZ1bX.png" height="70%" width="70%"/>
 
 
 ---
@@ -178,7 +178,7 @@ User details:
 - Entered the domain administrator username and password to authorize domain join
 
 
-<img src="https://imgur.com/KuCWLWA.png" height="80%" width="80%"/>
+<img src="https://imgur.com/KuCWLWA.png" height="70%" width="70%"/>
 
 
 ---
@@ -187,7 +187,7 @@ User details:
 - Received confirmation message indicating the computer was successfully joined to the domain
 
 
-<img src="https://imgur.com/C62qorS.png" height="80%" width="80%"/>
+<img src="https://imgur.com/C62qorS.png" height="70%" width="70%"/>
 
 
 ---
@@ -200,7 +200,7 @@ Computer details:
 - **Computer Name:** Desktop-1  
 
 
-<img src="https://imgur.com/oZ0K6zE.png" height="80%" width="80%"/>
+<img src="https://imgur.com/oZ0K6zE.png" height="70%" width="70%"/>
 
 
 ---
