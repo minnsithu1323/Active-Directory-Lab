@@ -31,7 +31,7 @@ The server was renamed to follow a standard enterprise naming convention.
 - Selected **Add Roles and Features**
 
 
-<img src="https://imgur.com/vfsqupy.png" height="70%" width="70%"/>
+<img src="https://imgur.com/b1rYguP.png" height="70%" width="70%"/>
 
 
 ---
